@@ -1,0 +1,30 @@
+{
+  "name": "@mdbootstrap/bootstrap-card-columns",
+  "version": "1.0.1",
+  "description": "Responsive Card columns built with Bootstrap 5. Use the Bootstrap grid system to control how many grid columns you show per row. Many examples and tutorials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-card-columns.git"
+  },
+  "keywords": [
+    "card columns",
+    "card",
+    "cards",
+    "column",
+    "columns",
+    "responsive",
+    "spacing",
+    "equal height",
+    "horizontal"
+  ],
+  "author": "Igor Przybysz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-card-columns/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/card-columns/"
+}
